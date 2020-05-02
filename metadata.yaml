@@ -1,0 +1,24 @@
+_repo: Kirjoja-ja-kirjailijoita-II_61972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+description: ''
+gutenberg_issued: '2020-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61972'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kirjoja ja kirjailijoita II
+url: http://www.gutenberg.org/ebooks/61972
